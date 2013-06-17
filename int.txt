@@ -1,0 +1,2 @@
+Programming Challenge 0: Write a program that will print all the numbers from 2 to 222, inclusively, each on a new line. The program should skip multiples of 3 (i.e., not print anything). For multiples of 4, it should print "A100" and for multiples of both 3 and 4, it should print "A100 Rocks!" 
+At the end, it should print "A100 Rocks X Times" (where X is the number of times "A100 Rocks!" was printed).
